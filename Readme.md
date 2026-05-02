@@ -1,7 +1,7 @@
 # Fundamentals in C Programming – Practical File
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="120">
+  <img src="assets/C_LOGO.png" width="120">
 </p>
 
 **By Golu Kumar Singh**
